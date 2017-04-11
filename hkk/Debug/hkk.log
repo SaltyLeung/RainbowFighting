@@ -1,0 +1,8 @@
+﻿  ColorReact.cpp
+e:\mydocuments\visual studio 2015\projects\hkk\hkk\colorreact.cpp(22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\mydocuments\visual studio 2015\projects\hkk\hkk\colorreact.cpp(43): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+e:\mydocuments\visual studio 2015\projects\hkk\hkk\colorreact.cpp(52): warning C4244: “初始化”: 从“unsigned long”转换到“WORD”，可能丢失数据
+e:\mydocuments\visual studio 2015\projects\hkk\hkk\colorreact.cpp(54): warning C4244: “参数”: 从“DWORD”转换到“WORD”，可能丢失数据
+  hkk.vcxproj -> e:\mydocuments\visual studio 2015\Projects\hkk\Debug\hkk.exe
+  hkk.vcxproj -> e:\mydocuments\visual studio 2015\Projects\hkk\Debug\hkk.pdb (Full PDB)
